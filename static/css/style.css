@@ -1,0 +1,32 @@
+.nav li a{
+    color: #000;
+    font-size: 15px;
+    font-weight: bold;
+    padding:14px 10px;
+    text-transform: uppercase;
+}
+.jumbotron{
+    background-image:url(../images/image1-3-edited_1.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:599px;
+    margin-top:3px;
+    width:100%;
+}
+.nav li a:hover{
+    background-color:#b23739;
+    color:#fff;
+}
+.nav{
+    margin-top:10px;
+    width:100%;
+}
+.logo{
+    height:100px;
+    width:200px;
+    margin-top:-100px;
+    overflow:none;
+}
+.list-inline{
+    vertical-align:auto;
+}
